@@ -4,7 +4,7 @@
 
 Clone this git repository:
 
-`git clone https://github.com/dpdevel/Ansible-Lab-Centos7.git`
+`git clone https://github.com/dpdevel/Ansible-Lab-Centos.git`
 
 ## Build images and run containers
 
